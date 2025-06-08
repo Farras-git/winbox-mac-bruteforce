@@ -3,8 +3,8 @@ import time
 
 # ---------- SETUP POSISI ----------
 # Ganti koordinat ini sesuai dengan posisi kotak password dan tombol login di Winbox
-password_box_pos = (251, 147)  # Ubah sesuai hasil pyautogui.position()
-login_button_pos = (1663, 193)  # Ubah sesuai tombol login
+password_box_pos = (179, 144)  # Ubah sesuai hasil pyautogui.position()
+login_button_pos = (1680, 198)  # Ubah sesuai tombol login
 # ----------------------------------
 
 # Delay awal untuk memberi waktu kamu membuka Winbox secara manual
