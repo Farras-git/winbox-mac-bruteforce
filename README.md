@@ -10,8 +10,7 @@ Tool ini digunakan untuk melakukan brute force login ke perangkat Mikrotik via W
 ## 🛠️ Fitur
 - ✅ Brute force via MAC address (bukan IP)
 - ✅ Simulasi otomatis klik & ketik di Winbox menggunakan PyAutoGUI
-- ✅ Deteksi otomatis jika login berhasil (visual comparison)
-- ✅ Log hasil password berhasil ke file `berhasil.txt`
+- ✅ Akan masuk kedalam halaman winbox jika 'berhasil'
 
 ---
 
